@@ -1,0 +1,23 @@
+Name: Nanxin Jin
+Login: jinn
+CS252 Lab4
+
+Part1:
+3. The program print output of 'A', 'B', 'C' randomly forever.
+5.Because main thread run "void printC( const char * s )" function forever, so program can not reach the last two lines to creat another two threads, which is 
+	pthread_create( &t1, &attr, (void * (*)(void *)) printC, (void *) "A" );
+	pthread_create( &t2, &attr, (void * (*)(void *)) printC, (void *) "B" ); 
+
+Part3:
+
+
+				            System (Kernel) Time | User Time | Real Time 
+----------------------------------------------------------------------------------------------
+pthread_mutex (count)                     | 0m1.060s             | 0m1.730s  | 0m1.697s    
+----------------------------------------------------------------------------------------------
+spin_lock (count_spin with thr_yield)     | 0m0.390s             | 0m1.960s  | 0m1.229s   
+----------------------------------------------------------------------------------------------
+spin_lock (count_spin without thr_yield)  | 0m0.000s             | 0m6.620s  | 0m3.397s    
+
+Q1: User Time is the amount CPU time, which is used in executing the code(outside the kernel). So when we run program without "thr_yield", CPU will spend most of time to waiting for another thread to stop using CPU. When we run program with "thr_yield", thread will stop using CPU when it reachs locked part, so it will spend less time to waiting in the process.
+Q2:CPU will spending most of time in kernel mode when it is locking and unlocking of the mutex, as well as to put thread into waiting state or pull thread out of waiting state. In count, we are using mutex lock, which means program runs in user space and give each thread a independent lock on executing code. In count_spin, when thr_yield() is used, the thread have to wait in system space instead of user space.

@@ -1,0 +1,12 @@
+Name: Nanxin Jin
+Login: jinn
+Extra features:
+password part:
+1. Add a suggestion for each password
+2. Program will send a password report to user's email
+
+monitor part:
+1. Add current CPU and Memory usage while running
+2. Tell user does CPU or Memory exceed MAXIMUM, and add it to the email that will send to user
+3. Add a program start time, also will email to user
+4. Add a program excute time, so it will show how long does monitor excuted

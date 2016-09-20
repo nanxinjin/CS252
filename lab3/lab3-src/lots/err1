@@ -1,0 +1,2 @@
+/bin/ls: cannot access notfound: No such file or directory
+ls: cannot access notfound: No such file or directory

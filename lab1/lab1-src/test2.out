@@ -1,0 +1,15 @@
+
+---- Running test2 ---
+After allocation
+FreeList: [offset:1600048,size:497152]->
+After freeing
+FreeList: [offset:0,size:2097200]->
+
+-------------------
+HeapSize:	2097248 bytes
+# mallocs:	10001
+# reallocs:	0
+# callocs:	0
+# frees:	10001
+
+-------------------

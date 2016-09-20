@@ -1,0 +1,2428 @@
+[master 58162dd] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+[master 15c75c6] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 4b610ec] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[master eb76ea5] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+
+nothing added to commit but untracked files present
+[master 2a24ec5] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc3383d] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 01b7c40] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 15f86ae] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 5ebe624] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 10b5ebb] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+[master 708b154] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+
+nothing added to commit but untracked files present
+[master e4e3e2f] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4c46a3e] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+
+nothing added to commit but untracked files present
+[master 917899c] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 964aa67] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2a10597] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master adca71c] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ea23961] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2addf17] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ca74c9e] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 38e1a26] Lab 2 commit
+ Committer: Nanxin Jin <jinn@sslab12.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+)
+[master a1bf24b] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+	test.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	passwordfile
+	test.sh
+
+nothing added to commit but untracked files present
+[master d19c2f7] Lab2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 241 insertions(+)
+ create mode 100755 test.sh
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	passwordfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	passwordfile
+
+nothing added to commit but untracked files present
+[master 8eecef5] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 55 insertions(+), 42 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+
+nothing added to commit but untracked files present
+[master fe57158] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 7 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	in
+
+nothing added to commit but untracked files present
+[master 7e62e24] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 81083eb] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master 8a9faaf] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 5 deletions(-)
+[master a78d126] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 37 insertions(+), 14 deletions(-)
+[master f00abea] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b8723ed] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+), 6 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+[master c35e9c9] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f98f573] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+[master 5c37df0] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d472a26] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 116014e] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 13181a8] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2769438] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master 0ef0bed] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 77506bf] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master be89182] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 15ecb62] Lab 2 commit
+ Committer: Nanxin Jin <jinn@borg14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+
+nothing added to commit but untracked files present
+[master 9620118] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master f7a31d4] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	passwordfile
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 4358f92] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 9 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	tmp-message
+
+nothing added to commit but untracked files present
+[master bb0a840] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a005ed4] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 9 insertions(+), 4 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+[master 8e020d6] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 7ea6a26] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 9697355] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1289122] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c9abec8] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+[master 9a4a590] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 38ca1b6] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+), 6 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+[master d065387] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+[master 087551c] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0241d47] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master a6914af] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[master d210465] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+[master f076c4e] Lab 2 commit
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	passwordfile
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	README
+	reports_dir/
+	tmp-message
+	tmp-messsage
+
+nothing added to commit but untracked files present
